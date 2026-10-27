@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Forge</string>
+    <string name="home">Home</string>
+    <string name="files">Files</string>
+    <string name="settings">Settings</string>
+    <string name="search_tools">Search tools…</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="no_recent_files">No recent files</string>
+    <string name="process_complete">Processing Complete</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="try_again">Try Again</string>
+    <string name="choose_another_file">Choose Another File</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+    <string name="save_as">Save As</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_files">Select Files</string>
+    <string name="processing">Processing…</string>
+    <string name="select_pages">Select Pages</string>
+    <string name="page_number">Page %d</string>
+    <string name="original_size">Original: %s</string>
+    <string name="new_size">New file: %s</string>
+    <string name="reduction">Reduction: %d%%</string>
+    <string name="permission_required">Storage permission is required to access this file.</string>
+    <string name="format_not_supported">This file format isn\'t supported.</string>
+    <string name="file_damaged">The file appears to be damaged or uses a format that isn\'t supported.</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_files">Files</string>
+    <string name="settings_ocr">OCR</string>
+    <string name="settings_processing">Processing</string>
+    <string name="settings_about">About</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="default_output_location">Default output location</string>
+    <string name="output_filename_behavior">Output filename behavior</string>
+    <string name="default_ocr_language">Default OCR language</string>
+    <string name="default_compression_quality">Default compression quality</string>
+    <string name="temp_file_cleanup">Temporary file cleanup</string>
+    <string name="version_info">PDF Forge v%s</string>
+    <string name="open_source_licenses">Open-source licenses</string>
+    <string name="privacy_info">Privacy information</string>
+    <string name="app_info">Application information</string>
+</resources>
